@@ -1,0 +1,147 @@
+body {
+  background-image: url(../images/concrete_seamless.png);
+  margin: 0 auto;
+  font-family: serif;
+}
+
+.navBar {
+  width: 100%;
+  background-color: white;
+  margin-top: 0;
+  border-bottom-style: solid;
+  border-color: rgb(0, 174, 167);
+}
+
+.name {
+  width: 170px;
+  position: relative;
+  left: 50px;
+  color: white;
+  padding: 20px;
+  margin: 0;
+  background-color: rgb(0, 174, 167);
+}
+
+.links {
+  position: absolute;
+  right: 100px;
+  top: 30px;
+}
+
+.linkStyle1 {
+  padding-right: 10px;
+  text-decoration: none;
+  color: gray;
+  border-right-style: solid;
+  border-color: gray;
+}
+
+.linkStyle2 {
+  padding-right: 10px;
+  text-decoration: none;
+  color: gray;
+}
+
+.main {
+  margin: 0 auto;
+  width: 960px;
+  clear: both;
+}
+
+.break {
+  color: rgb(0, 174, 167);
+  width: 95%;
+  size: 20px;
+}
+
+.aboutMe {
+  width: 650px;
+  background-color: white;
+  float: left;
+}
+
+.AM {
+  padding: 15px 0 0 15px;
+  color: rgb(0, 174, 167);
+}
+
+.profilePic {
+  padding: 15px 10px 10px 15px;
+  height: 150px;
+  width: 150px;
+  float: left;
+}
+
+.aboutText {
+  line-height: 1.6;
+  color: gray;
+  padding: 10px;
+  font-size: 15px;
+}
+
+.connect {
+  text-align: center;
+  color: rgb(0, 174, 167);
+  background-color: white;
+  padding: 15px;
+  clear: both;
+  width: 200px;
+  position: absolute;
+  right: 80px;
+
+}
+
+.linkPics {
+  width: 50px;
+  height: 50px;
+}
+
+.footer {
+  padding: 20px;
+  background-color: gray;
+  text-align: center;
+  margin-top: 20px;
+  clear: both;
+  width: 100%;
+  border-top-style: solid;
+  border-color: rgb(0, 174, 167);
+}
+
+.projects {
+  background-color: white;
+  padding: 15px;
+  width: 650px;
+  float: left;
+}
+
+.projectPics1 {
+  height: 300px;
+  width: 320px;
+}
+
+.projectPics2 {
+  height: 300px;
+  width: 320px;
+}
+
+.projectPics3 {
+  height: 300px;
+  width: 320px;
+}
+
+.projectPics4 {
+  height: 300px;
+  width: 320px;
+}
+
+.projectPics5 {
+  height: 300px;
+  width: 320px;
+}
+
+.contactField {
+  background-color: white;
+  padding: 15px;
+  width: 650px;
+  float: left;
+}
